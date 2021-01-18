@@ -7,7 +7,6 @@ copyright: "2021 geny200"
 
 extra-source-files:
   - README.md
-  - ChangeLog.md
 
 description: Please see the README on GitHub at <https://github.com/geny200/itmo-FP-work#readme>
 
